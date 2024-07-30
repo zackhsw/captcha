@@ -1,3 +1,3 @@
-module github.com/zackhsw/captchaN
+module github.com/zackhsw/captcha
 
 go 1.18
