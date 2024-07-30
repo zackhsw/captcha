@@ -57,7 +57,7 @@ func NewImage(id string, digits []byte, width, height int) *Image {
 		m.drawDigit(font[n], x, y)
 		x += m.numWidth + m.dotSize
 	}
-	// Draw strike-through line.
+	// Draw strike-through line. ;)
 	//m.strikeThrough()
 	// Apply wave distortion.
 	//m.distort(m.rng.Float(5, 10), m.rng.Float(100, 200))
